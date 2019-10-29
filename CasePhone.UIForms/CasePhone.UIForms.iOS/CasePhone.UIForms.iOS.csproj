@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{5055DDF2-9EBF-4174-9AAF-D4B01274D5F0}</ProjectGuid>
+    <ProjectGuid>{3CC8B732-9107-449F-8646-7155EA1A0310}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -130,7 +130,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\CasePhone.UIForms\CasePhone.UIForms.csproj">
-      <Project>{94845DB3-7914-4DEB-8BE4-8C098B27BDAF}</Project>
+      <Project>{6918AF40-333C-45FD-963B-222BF6DC7018}</Project>
       <Name>CasePhone.UIForms</Name>
     </ProjectReference>
   </ItemGroup>

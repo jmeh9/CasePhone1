@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2CEFAF1-90DB-4E05-BAFF-9620586345F1}</ProjectGuid>
+    <ProjectGuid>{03C7E175-CDD4-4118-924B-28FA49EC8C2D}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -99,7 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CasePhone.UIForms\CasePhone.UIForms.csproj">
-      <Project>{94845DB3-7914-4DEB-8BE4-8C098B27BDAF}</Project>
+      <Project>{6918AF40-333C-45FD-963B-222BF6DC7018}</Project>
       <Name>CasePhone.UIForms</Name>
     </ProjectReference>
   </ItemGroup>
