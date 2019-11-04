@@ -10,8 +10,11 @@ namespace CasePhone.Web.Data.Entities
     {
         public int Id { get; set; }
 
-        [Display(Name = "Nosotros")]
+        [Display(Name = "Nombre del Producto")]
         public string Name { get; set; }
+
+        [Display(Name = "Precio")]
+        public decimal Price { get; set; }
 
     }
 }
