@@ -8,7 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to a CasePhone!" 
+        <Label Text="Bienvenido a la pagina de Miguel!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
